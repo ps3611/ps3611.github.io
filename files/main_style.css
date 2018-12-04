@@ -36,9 +36,9 @@
  #wsite-title { font-family: "Ubuntu"; font-size: 2em; font-weight: bold; text-transform: uppercase; color: #ffffff; }
  #nav > ul li:last-child a { padding-right: 0 !important; }
  .wsite-menu-default { margin: 0 auto; }
- .wsite-menu-default li { list-style: none; display: inline-block; }
- .wsite-menu-default a { display: block; padding: 15px; color: rgba(255, 255, 255, .65); font-family: "Ubuntu"; font-weight: bold; text-transform: uppercase; }
- .wsite-menu-default a:hover, .wsite-menu a:hover, .wsite-menu-default #active a { color: #ffffff; }
+ .wsite-menu-default li { list-style: none; display: inline-block; text-shadow: 0px 0px 30px rgba(0,0,0,1) }
+ .wsite-menu-default a { display: block; padding: 15px; color: rgba(255, 255, 255, 1); font-family: "Ubuntu"; font-weight: bold; text-transform: uppercase; }
+ .wsite-menu-default a:hover, .wsite-menu a:hover, .wsite-menu-default #active a { color: rgba(205, 205, 25, 1); }
  #mobile-nav, #mobile-button, #mobile-input { display: none; }
  #wsite-menus .wsite-menu-wrap * { border: none !important; }
  #wsite-menus .wsite-menu li a { padding: 10px 20px; background: #f8f8f8; color: #797570; font-family: "Ubuntu"; font-weight: bold; text-transform: uppercase; }
