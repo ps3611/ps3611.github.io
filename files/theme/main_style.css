@@ -77,7 +77,7 @@ body {
 
 .wsite-background {
   width: 100%;
-  background: #000 url(images/bg.jpg) top center no-repeat;
+  background: #000 url(images/bg.png) top center no-repeat;
   background-size: cover;
   background-attachment: fixed;
 }
@@ -384,7 +384,7 @@ div.paragraph, p {
 }
 
 .wsite-header {
-  background: url(images/header-bg.jpg) no-repeat center center;
+  background: url(images/header-bg.png) no-repeat center center;
   background-size: cover !important;
 }
 

@@ -9,7 +9,7 @@
  input:focus, select:focus, textarea:focus, button:focus { outline: none; }
  html { height: auto; }
  body { width: 100%; background: #000; padding: 0 !important; }
- .wsite-background { width: 100%; background: #000 url(theme/images/bg.jpg?1519335002) top center no-repeat; background-size: cover; background-attachment: fixed; }
+ .wsite-background { width: 100%; background: #000 url(theme/images/bg.png?1519335002) top center no-repeat; background-size: cover; background-attachment: fixed; }
  .background { position: fixed; width: 100%; height: 100%; }
  .shade { display: none \9\0; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,1); background: rgba(0,0,0,.5); background: rgba(0,0,0,.4); background: -moz-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(102,102,102,0) 40%, rgba(255,255,255,0) 100%); background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(0,0,0,.4)), color-stop(40%, rgba(102,102,102,0)), color-stop(100%, rgba(255,255,255,0))); background: -webkit-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(102,102,102,0) 40%, rgba(255,255,255,0) 100%); background: -o-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(102,102,102,0) 40%, rgba(255,255,255,0) 100%); background: -ms-linear-gradient(top, rgba(0,0,0,.4) 0%, rgba(102,102,102,0) 40%, rgba(255,255,255,0) 100%); background: linear-gradient(to bottom, rgba(0,0,0,.4) 0%, rgba(102,102,102,0) 40%, rgba(255,255,255,0) 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#ffffff', GradientType=0 ); }
  .header-hover-container.w-ui { position: fixed !important; }
@@ -57,7 +57,7 @@
  #banner h2, #banner p, #banner div { margin: 0; }
  #banner .wsite-headline, .splash-page h2 { color: #a2834e; font-size: 36px; text-transform: uppercase; }
  #banner .wsite-headline-paragraph { color: #fff; font-size: 1.2em; }
- .wsite-header { background: url(theme/images/header-bg.jpg?1519335002) no-repeat center center; background-size: cover !important; }
+ .wsite-header { background: url(theme/images/header-bg.png?1519335002) no-repeat center center; background-size: cover !important; }
  .wsite-header:before { content: ""; display: block; }
  .tall-header-page #banner .wslide-main { position: absolute !important; top: 0 !important; }
  .landing-page #banner div.paragraph { margin: 1.85em auto 2em; }
